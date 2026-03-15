@@ -1,0 +1,16 @@
+# Python
+*.pyc
+__pycache__
+*.pyo
+*.pyd
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Database
+*.db
+!data.db
